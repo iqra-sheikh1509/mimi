@@ -1,5 +1,5 @@
-# mimi 
+MINI 
 <br>
-iqra
+Author_Iqra
 <br>
 This my first git project
